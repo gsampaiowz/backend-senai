@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\bin\Debug\net7.0\cadastro-produtos.exe
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\bin\Debug\net7.0\cadastro-produtos.deps.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\bin\Debug\net7.0\cadastro-produtos.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\bin\Debug\net7.0\cadastro-produtos.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\bin\Debug\net7.0\cadastro-produtos.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\refint\cadastro-produtos.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\cadastro-produtos.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\projetos\cadastro-produtos\obj\Debug\net7.0\ref\cadastro-produtos.dll

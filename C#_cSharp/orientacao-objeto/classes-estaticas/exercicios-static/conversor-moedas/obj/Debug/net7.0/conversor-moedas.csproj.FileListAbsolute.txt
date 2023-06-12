@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\bin\Debug\net7.0\conversor-moedas.exe
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\bin\Debug\net7.0\conversor-moedas.deps.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\bin\Debug\net7.0\conversor-moedas.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\bin\Debug\net7.0\conversor-moedas.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\bin\Debug\net7.0\conversor-moedas.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\refint\conversor-moedas.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\conversor-moedas.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\exercicios\exercicios-static\conversor-moedas\obj\Debug\net7.0\ref\conversor-moedas.dll

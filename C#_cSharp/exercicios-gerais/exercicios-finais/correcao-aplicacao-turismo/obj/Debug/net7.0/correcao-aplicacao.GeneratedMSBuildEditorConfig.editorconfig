@@ -1,0 +1,15 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = correcao_aplicacao
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\
+=======
+build_property.ProjectDir = C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2

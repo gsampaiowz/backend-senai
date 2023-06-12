@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\bin\Debug\net7.0\cadastro-de-eventos.exe
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\bin\Debug\net7.0\cadastro-de-eventos.deps.json
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\bin\Debug\net7.0\cadastro-de-eventos.runtimeconfig.json
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\bin\Debug\net7.0\cadastro-de-eventos.dll
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\bin\Debug\net7.0\cadastro-de-eventos.pdb
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.dll
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\refint\cadastro-de-eventos.dll
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.pdb
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\cadastro-de-eventos.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\Senai\BackEnd\MVC\cadastro-de-eventos\obj\Debug\net7.0\ref\cadastro-de-eventos.dll

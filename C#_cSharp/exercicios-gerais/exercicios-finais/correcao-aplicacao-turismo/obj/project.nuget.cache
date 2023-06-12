@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "73iLQleK7Nd8SJNa5jeNfbTadu1ZuSXDuPNAdcXTkgnOBX7oqnOiU/gjitQiiOsSQkbyETMm5n/E3s1gSlT8Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sampaio\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\correcao-aplicacao.csproj",
+=======
+  "dgSpecHash": "iYNvblS3DZ4JfUY4brfv/1whfIUQ172L8uufgYu1O4xv6rt6nQa0//3qXhJLeiDmieuqLvuGi90cyJIhKFeCrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\42591939888\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\correcao-aplicacao.csproj",
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2
+  "expectedPackageFiles": [],
+  "logs": []
+}

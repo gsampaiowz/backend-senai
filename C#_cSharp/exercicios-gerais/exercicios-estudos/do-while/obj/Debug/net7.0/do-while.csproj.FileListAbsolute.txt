@@ -1,0 +1,15 @@
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.csproj.AssemblyReference.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.AssemblyInfoInputs.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.AssemblyInfo.cs
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.csproj.CoreCompileInputs.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\bin\Debug\net7.0\do-while.exe
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\bin\Debug\net7.0\do-while.deps.json
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\bin\Debug\net7.0\do-while.runtimeconfig.json
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\bin\Debug\net7.0\do-while.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\bin\Debug\net7.0\do-while.pdb
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\refint\do-while.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.pdb
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\do-while.genruntimeconfig.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\do-while\obj\Debug\net7.0\ref\do-while.dll

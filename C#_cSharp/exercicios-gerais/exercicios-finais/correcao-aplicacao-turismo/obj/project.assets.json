@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\Sampaio\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\42591939888\\.nuget\\packages\\": {}
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Sampaio\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\correcao-aplicacao.csproj",
+      "projectName": "correcao-aplicacao",
+      "projectPath": "C:\\Users\\Sampaio\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\correcao-aplicacao.csproj",
+      "packagesPath": "C:\\Users\\Sampaio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sampaio\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Sampaio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\42591939888\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\correcao-aplicacao.csproj",
+      "projectName": "correcao-aplicacao",
+      "projectPath": "C:\\Users\\42591939888\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\correcao-aplicacao.csproj",
+      "packagesPath": "C:\\Users\\42591939888\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\42591939888\\Desktop\\Senai\\C#_cSharp\\exercicios\\exercicios-finais\\correcao-aplicacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\42591939888\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+<<<<<<< HEAD
+=======
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2
+      }
+    }
+  }
+}

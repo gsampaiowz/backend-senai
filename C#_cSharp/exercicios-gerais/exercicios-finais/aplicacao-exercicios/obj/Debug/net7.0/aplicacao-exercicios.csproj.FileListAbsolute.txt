@@ -1,0 +1,15 @@
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\bin\Debug\net7.0\aplicacao-exercicios.exe
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\bin\Debug\net7.0\aplicacao-exercicios.deps.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\bin\Debug\net7.0\aplicacao-exercicios.runtimeconfig.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\bin\Debug\net7.0\aplicacao-exercicios.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\bin\Debug\net7.0\aplicacao-exercicios.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.csproj.AssemblyReference.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.AssemblyInfoInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.AssemblyInfo.cs
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\refint\aplicacao-exercicios.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\aplicacao-exercicios.genruntimeconfig.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\aplicacao-exercicios\obj\Debug\net7.0\ref\aplicacao-exercicios.dll

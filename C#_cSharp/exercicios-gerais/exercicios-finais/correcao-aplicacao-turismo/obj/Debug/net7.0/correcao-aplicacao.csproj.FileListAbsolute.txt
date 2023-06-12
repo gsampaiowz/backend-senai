@@ -1,0 +1,33 @@
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.exe
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.deps.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\refint\correcao-aplicacao.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\ref\correcao-aplicacao.dll
+<<<<<<< HEAD
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.exe
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.deps.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.runtimeconfig.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\bin\Debug\net7.0\correcao-aplicacao.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.csproj.AssemblyReference.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.AssemblyInfoInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.AssemblyInfo.cs
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\refint\correcao-aplicacao.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\correcao-aplicacao.genruntimeconfig.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\exercicios\exercicios-finais\correcao-aplicacao\obj\Debug\net7.0\ref\correcao-aplicacao.dll
+=======
+>>>>>>> d885c1e0c62e00589a9a93735768df1420bdf4f2

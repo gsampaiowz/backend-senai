@@ -1,0 +1,15 @@
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\bin\Debug\net7.0\cellphone.exe
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\bin\Debug\net7.0\cellphone.deps.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\bin\Debug\net7.0\cellphone.runtimeconfig.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\bin\Debug\net7.0\cellphone.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\bin\Debug\net7.0\cellphone.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.csproj.AssemblyReference.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.AssemblyInfoInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.AssemblyInfo.cs
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.csproj.CoreCompileInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\refint\cellphone.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\cellphone.genruntimeconfig.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\cellphone\obj\Debug\net7.0\ref\cellphone.dll

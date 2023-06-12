@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\bin\Debug\net7.0\estruturas-repeticao.exe
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\bin\Debug\net7.0\estruturas-repeticao.deps.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\bin\Debug\net7.0\estruturas-repeticao.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\bin\Debug\net7.0\estruturas-repeticao.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\bin\Debug\net7.0\estruturas-repeticao.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\refint\estruturas-repeticao.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\estruturas-repeticao.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\estruturas-repeticao\obj\Debug\net7.0\ref\estruturas-repeticao.dll

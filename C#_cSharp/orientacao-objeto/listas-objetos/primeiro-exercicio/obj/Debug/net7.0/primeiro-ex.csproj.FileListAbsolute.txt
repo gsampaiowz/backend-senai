@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\bin\Debug\net7.0\primeiro-ex.exe
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\bin\Debug\net7.0\primeiro-ex.deps.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\bin\Debug\net7.0\primeiro-ex.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\bin\Debug\net7.0\primeiro-ex.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\bin\Debug\net7.0\primeiro-ex.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\refint\primeiro-ex.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\primeiro-ex.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\listas-objetos\primeiro-ex\obj\Debug\net7.0\ref\primeiro-ex.dll

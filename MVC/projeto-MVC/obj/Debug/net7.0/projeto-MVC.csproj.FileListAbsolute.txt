@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\bin\Debug\net7.0\projeto-MVC.exe
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\bin\Debug\net7.0\projeto-MVC.deps.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\bin\Debug\net7.0\projeto-MVC.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\bin\Debug\net7.0\projeto-MVC.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\bin\Debug\net7.0\projeto-MVC.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\refint\projeto-MVC.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\projeto-MVC.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\MVC\projeto-MVC\obj\Debug\net7.0\ref\projeto-MVC.dll

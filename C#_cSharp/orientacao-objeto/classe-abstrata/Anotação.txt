@@ -1,0 +1,20 @@
+POO - Programação Orientada à Objetos
+
+4 Pilares:
+* Abstração - Criar classe abstrata com as propriedades e os métodos.
+* Herança
+* Polimorfismo - 2 Vertentes: Sobrecarga e sobreescrita
+* Encapsulamento
+
+___________________________________________
+
+
+SobreCarga => Escrever o mesmo método com quantidade de parâmetros diferente, usa-se Override
+SobreEscrita => Escrever o mesmo método com conteúdo diferente, usa-se Virtual
+
+// Estrutura
+Acessor Tipo Nome = Valor
+public string var;
+
+{ get; set; } => Encapsulamento
+    se => private set; => a variável só poderá ser alterada na classe abstrata.

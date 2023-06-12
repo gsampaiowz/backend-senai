@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\bin\Debug\net7.0\construtores.exe
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\bin\Debug\net7.0\construtores.deps.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\bin\Debug\net7.0\construtores.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\bin\Debug\net7.0\construtores.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\bin\Debug\net7.0\construtores.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\refint\construtores.dll
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.pdb
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\construtores.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\BackEnd\C#_cSharp\orientacao-objeto\construtores\obj\Debug\net7.0\ref\construtores.dll

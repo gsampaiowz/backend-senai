@@ -1,0 +1,30 @@
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.exe
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.deps.json
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.runtimeconfig.json
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.pdb
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.csproj.AssemblyReference.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.AssemblyInfoInputs.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.AssemblyInfo.cs
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.csproj.CoreCompileInputs.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\refint\extra.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.pdb
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.genruntimeconfig.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\ref\extra.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.exe
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.deps.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\bin\Debug\net7.0\extra.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\refint\extra.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\extra.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\exercicios\exercicios-repeticao\extra\obj\Debug\net7.0\ref\extra.dll

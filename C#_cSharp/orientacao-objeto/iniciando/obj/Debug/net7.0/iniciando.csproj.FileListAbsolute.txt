@@ -1,0 +1,15 @@
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\bin\Debug\net7.0\iniciando.exe
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\bin\Debug\net7.0\iniciando.deps.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\bin\Debug\net7.0\iniciando.runtimeconfig.json
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\bin\Debug\net7.0\iniciando.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\bin\Debug\net7.0\iniciando.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.csproj.AssemblyReference.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.AssemblyInfoInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.AssemblyInfo.cs
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.csproj.CoreCompileInputs.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\refint\iniciando.dll
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.pdb
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\iniciando.genruntimeconfig.cache
+C:\Users\Sampaio\Desktop\Senai\C#_cSharp\orientacao-objeto\iniciando\obj\Debug\net7.0\ref\iniciando.dll

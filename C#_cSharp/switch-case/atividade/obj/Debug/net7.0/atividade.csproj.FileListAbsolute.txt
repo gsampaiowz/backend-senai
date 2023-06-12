@@ -1,0 +1,15 @@
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\bin\Debug\net7.0\atividade.exe
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\bin\Debug\net7.0\atividade.deps.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\bin\Debug\net7.0\atividade.runtimeconfig.json
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\bin\Debug\net7.0\atividade.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\bin\Debug\net7.0\atividade.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.csproj.AssemblyReference.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.AssemblyInfoInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.AssemblyInfo.cs
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\refint\atividade.dll
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.pdb
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\atividade.genruntimeconfig.cache
+C:\Users\42591939888\Desktop\Senai\C#_cSharp\switch-case\atividade\obj\Debug\net7.0\ref\atividade.dll

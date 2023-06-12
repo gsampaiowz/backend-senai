@@ -1,0 +1,15 @@
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\bin\Debug\net7.0\for.exe
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\bin\Debug\net7.0\for.deps.json
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\bin\Debug\net7.0\for.runtimeconfig.json
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\bin\Debug\net7.0\for.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\bin\Debug\net7.0\for.pdb
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.csproj.AssemblyReference.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.AssemblyInfoInputs.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.AssemblyInfo.cs
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.csproj.CoreCompileInputs.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\refint\for.dll
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.pdb
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\for.genruntimeconfig.cache
+C:\Users\jacky\OneDrive\Área de Trabalho\Senai\C#_cSharp\exercicios\exercicios-estudos\for\obj\Debug\net7.0\ref\for.dll

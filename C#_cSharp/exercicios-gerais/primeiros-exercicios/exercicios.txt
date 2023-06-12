@@ -1,0 +1,3 @@
+faça um porgrama que receba 5 notas de um aluno e calcule a média aritmética. imprimir a resposta no console.
+faça um programa para uma quitanda que receba o peso em kg de um alimento e calcule o valor da compra
+pré-definir o valor do kg do produto
