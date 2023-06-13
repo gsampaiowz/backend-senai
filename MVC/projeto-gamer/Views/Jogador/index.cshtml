@@ -8,7 +8,7 @@
 
 @if (ViewBag.UserName == null)
 {
-  <a class="navbar-brand" asp-area="Botão para fazer login" asp-controller="Login" asp-action="Index">Faça Login para ter acesso ao cadastro</a>
+  <a class="navbar-brand text-dark nav-link" asp-area="Botão para fazer login" asp-controller="Login" asp-action="Index">Faça Login para ter acesso ao cadastro</a>
 }
 else
 {
@@ -36,10 +36,6 @@ else
 
   <button type="submit">Cadastrar</button>
 </form>
-}
-
-
-
 <table class="table table-striped table-responsive">
     <thead>
         <th>Id</th>
@@ -63,3 +59,4 @@ else
         }
     </tbody>
 </table>
+}

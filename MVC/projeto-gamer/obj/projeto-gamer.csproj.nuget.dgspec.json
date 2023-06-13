@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\42591939888\\Desktop\\Senai\\BackEnd\\MVC\\projeto-gamer\\projeto-gamer.csproj": {}
+    "C:\\Users\\Sampaio\\Desktop\\backend-senai\\MVC\\projeto-gamer\\projeto-gamer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\42591939888\\Desktop\\Senai\\BackEnd\\MVC\\projeto-gamer\\projeto-gamer.csproj": {
+    "C:\\Users\\Sampaio\\Desktop\\backend-senai\\MVC\\projeto-gamer\\projeto-gamer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\42591939888\\Desktop\\Senai\\BackEnd\\MVC\\projeto-gamer\\projeto-gamer.csproj",
+        "projectUniqueName": "C:\\Users\\Sampaio\\Desktop\\backend-senai\\MVC\\projeto-gamer\\projeto-gamer.csproj",
         "projectName": "projeto-gamer",
-        "projectPath": "C:\\Users\\42591939888\\Desktop\\Senai\\BackEnd\\MVC\\projeto-gamer\\projeto-gamer.csproj",
-        "packagesPath": "C:\\Users\\42591939888\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\42591939888\\Desktop\\Senai\\BackEnd\\MVC\\projeto-gamer\\obj\\",
+        "projectPath": "C:\\Users\\Sampaio\\Desktop\\backend-senai\\MVC\\projeto-gamer\\projeto-gamer.csproj",
+        "packagesPath": "C:\\Users\\Sampaio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sampaio\\Desktop\\backend-senai\\MVC\\projeto-gamer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\42591939888\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Sampaio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -78,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

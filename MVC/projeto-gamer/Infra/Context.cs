@@ -19,7 +19,7 @@ namespace projeto_gamer.Infra
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Data Source = NOTE19-S15; initial catalog = gamerTarde; User Id=sa; pwd=Senai@134; TrustServerCertificate = true;");
+                optionsBuilder.UseSqlServer("Data Source = SAMPAIO; initial catalog = gamerTarde; User Id=sa; pwd=1216; TrustServerCertificate = true;");
             }
         }
 
