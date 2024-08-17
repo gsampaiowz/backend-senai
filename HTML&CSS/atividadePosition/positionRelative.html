@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        width: 600px;
+        height: 500px;
+        border: 1px solid black;
+        margin: 0 auto;
+      }
+
+      section article {
+        width: 100px;
+        height: 100px;
+
+        margin-right: calc(500px - 490px);
+
+        background-color: red;
+        border: 1px solid black;
+      }
+
+      #diferente {
+        /* A referência é o próprio elemento */
+        position: absolute;
+        right: 0;
+        bottom: 10px;
+        background-color: green;
+      }
+
+      #fechar {
+        position: absolute;
+        top: -12px;
+        right: -12px;
+
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        background-color: blue;
+        color: white;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      #sampaio {
+        background-color: purple;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Relative -->
+    <section id="sampaio">
+      <article>The Cria!</article>
+      <article></article>
+      <!-- Absolute -->
+      <article id="diferente">
+        <!-- Absolute -->
+        <div id="fechar">x</div>
+      </article>
+      <article></article>
+      <article></article>
+    </section>
+
+    <article>Fora da Section</article>
+  </body>
+</html>

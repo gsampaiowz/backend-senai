@@ -1,0 +1,23 @@
+body {
+  background-color: pink;
+}
+
+p {
+  color: rebeccapurple;
+}
+
+#segundo {
+  background-color: blueviolet;
+  color: darkred;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.diferente {
+  background-color: darkred;
+  color: blueviolet;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 20px;
+}

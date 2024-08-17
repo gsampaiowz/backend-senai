@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="css/style.css" />
+		<script src="js/script.js"></script>
+		<title>Desafio Front</title>
+	</head>
+
+	<body>
+		<header id="topo">
+			<div class="margem-padrao header-flex">
+				<h1>relap</h1>
+				<input type="text" placeholder="Search" />
+				<nav class="links-header">
+					<a href="#store">Store</a><a href="#features">Features</a
+					><a href="#about">About</a><a href="#blog">Blog</a
+					><a href="#news">News</a>
+				</nav>
+				<nav id="menuMobile" class="links-mobile">
+					<input type="text" placeholder="Search" />
+					<a onclick="Hamburger()" href="#store">Store</a
+					><a onclick="Hamburger()" href="#features">Features</a>
+					<a onclick="Hamburger()" href="#about">About</a
+					><a onclick="Hamburger()" href="#blog">Blog</a>
+					<a onclick="Hamburger()" href="#news">News</a>
+				</nav>
+				<div class="icones-header">
+					<div class="icone">
+						<img src="assets/icons/coracao.png" alt="Ícone de coração" />
+					</div>
+					<div class="icone">
+						<img
+							src="assets/icons/bolsa-trolley.png"
+							alt="Ícone de carrinho de compras"
+						/>
+					</div>
+					<div onclick="Hamburger()" class="icone">
+						<img
+							class="menu"
+							src="assets/icons/hamburger.png"
+							alt="Ícone de menu de hamburger"
+						/>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<main>
+			<section id="store" class="inicio">
+				<div class="margem-padrao inicio-flex">
+					<img
+						class="setas esquerda"
+						src="assets/icons/seta-esquerda.png"
+						alt="Seta para a esquerda"
+					/>
+					<img
+						class="banner"
+						src="assets/img/notebook-banner.png"
+						alt="Notebook"
+					/>
+					<div class="conteudo">
+						<h2>MINIM VENIAM</h2>
+						<h1>
+							Ut labore et<br />
+							dolore
+						</h1>
+						<button type="submit">Buy Now</button>
+					</div>
+					<img
+						class="setas direita"
+						src="assets/icons/seta-direita.png"
+						alt="Seta para a seta-direita"
+					/>
+				</div>
+			</section>
+
+			<section id="features" class="beneficios">
+				<div class="margem-padrao beneficios-flex">
+					<div class="card">
+						<img
+							src="assets/icons/caminhao-de-entrega.png"
+							alt="Ícone de caminhão"
+						/>
+						<div class="textos">
+							<h2>Quis nostrud</h2>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+						</div>
+					</div>
+					<div class="card">
+						<img
+							src="assets/icons/simbolo-de-recarga.png"
+							alt="Ícone de recarga"
+						/>
+						<div class="textos">
+							<h2>Exercitation</h2>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+						</div>
+					</div>
+					<div class="card">
+						<img
+							src="assets/icons/telemarketing.png"
+							alt="Ícone de atendente de telemarketing"
+						/>
+						<div class="textos">
+							<h2>Ullamco laboris</h2>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+						</div>
+					</div>
+					<div class="card">
+						<img
+							src="assets/icons/sacola.png"
+							alt="Ícone de sacola de compras"
+						/>
+						<div class="textos">
+							<h2>Nisi ut aliquip</h2>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="about" class="produtos">
+				<div class="produtos-flex margem-padrao">
+					<h2>natus error</h2>
+					<h1>Unde omnis iste</h1>
+					<p>
+						Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus
+						saepe exercitationem omnis <br />reiciendis aliquid laudantium
+						facilis fugiat veritatis at mollitia?
+					</p>
+					<div class="lista">
+						<div class="box">
+							<img src="assets/img/note.png" alt="Imagem de um notebook" />
+							<div class="opcoes">
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<a>See all</a>
+							</div>
+						</div>
+						<div class="box">
+							<img src="assets/img/smartphone.png" alt="Imagem de um celular" />
+							<div class="opcoes">
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<a>See all</a>
+							</div>
+						</div>
+						<div class="box">
+							<img src="assets/img/tablet.png" alt="Imagem de um tablet" />
+							<div class="opcoes">
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<a>See all</a>
+							</div>
+						</div>
+						<div class="box">
+							<img src="assets/img/monitor.png" alt="Imagem de um monitor" />
+							<div class="opcoes">
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<span>Lorem ipsum</span>
+								<a>See all</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="blog" class="promocoes">
+				<div class="promocoes-flex margem-padrao">
+					<h2>deserunt</h2>
+					<h1>Mollit anim</h1>
+					<div class="grid">
+						<div class="box box1">
+							<h3>Sed ut perspiciatis</h3>
+							<h4>Unde omnis iste natus error</h4>
+							<button>Shop Now</button>
+							<img src="assets/img/celulares.png" alt="Imagem de celulares" />
+						</div>
+						<div class="box box2">
+							<h3>Totam rem aperiam</h3>
+							<h4>$199</h4>
+							<img src="assets/img/celular.png" alt="Imagem de celular" />
+						</div>
+						<div class="box box3">
+							<h3>Eaque ipsa</h3>
+							<h4>$99</h4>
+							<img
+								src="assets/img/smartwatch.png"
+								alt="Imagem de smartwatches"
+							/>
+						</div>
+						<div class="box box4">
+							<h3>Quae ab illo inventore</h3>
+							<h4>Architecto beatae vitae dicto sunt</h4>
+							<button>Shop Now</button>
+							<img src="assets/img/notebooks.png" alt="Imagem de notebooks" />
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="mais-produtos">
+				<div class="mais-produtos-flex margem-padrao">
+					<div class="linha">
+						<h1>Unde omnis</h1>
+						<div class="filtros">
+							<a>Phones</a>
+							<a>Eletronics</a>
+							<a>Appliances</a>
+							<a>Clothes</a>
+							<a>Kids</a>
+						</div>
+					</div>
+					<div class="linha-produtos">
+						<div class="box">
+							<img src="assets/img/fone1.png" alt="Imagem de fone" />
+							<h3>Nemo enim ipsam</h3>
+							<h4>$180</h4>
+							<div class="icone">
+								<img
+									src="assets/icons/bolsa-trolley.png"
+									alt="ícone de carrinho de compras"
+								/>
+							</div>
+						</div>
+						<div class="box">
+							<img src="assets/img/fone2.png" alt="Imagem de fone" />
+							<h3>Sed quia consequuntur</h3>
+							<h4>$180</h4>
+							<div class="icone">
+								<img
+									src="assets/icons/bolsa-trolley.png"
+									alt="ícone de carrinho de compras"
+								/>
+							</div>
+						</div>
+						<div class="box">
+							<img
+								src="assets/img/jbl1.png"
+								alt="Imagem de caixa de som da marca JBL"
+							/>
+							<h3>Aut odit aut fugit</h3>
+							<h4>$180</h4>
+							<div class="icone">
+								<img
+									src="assets/icons/bolsa-trolley.png"
+									alt="ícone de carrinho de compras"
+								/>
+							</div>
+						</div>
+						<div class="box">
+							<img
+								src="assets/img/jbl2.png"
+								alt="Imagem de caixa de som da marca JBL"
+							/>
+							<h3>Quia voluptas aspernatur</h3>
+							<h4>$180</h4>
+							<div class="icone">
+								<img
+									src="assets/icons/bolsa-trolley.png"
+									alt="ícone de carrinho de compras"
+								/>
+							</div>
+						</div>
+					</div>
+					<div class="setas">
+						<img
+							src="assets/icons/seta-esquerda.png"
+							alt="Seta para esquerda"
+						/><img
+							src="assets/icons/seta-direita.png"
+							alt="Seta para direita"
+						/>
+					</div>
+				</div>
+			</section>
+
+			<section class="oferta">
+				<div class="oferta-flex margem-padrao">
+					<div class="linha">
+						<h1>Magni dolores</h1>
+						<h2>12 : 17 : 08 : 42</h2>
+					</div>
+					<div class="conteudo">
+						<div class="box">
+							<h3>Voluptate</h3>
+							<div class="filtros">
+								<a>Phones</a>
+								<a>Eletronics</a>
+								<a>Appliances</a>
+								<a>Clothes</a>
+								<a>Kids</a>
+							</div>
+						</div>
+						<div class="fone">
+							<img src="assets/img/fone2.png" alt="Imagem de fone" />
+							<div class="desconto">
+								<h3>-15%</h3>
+							</div>
+						</div>
+						<div class="detalhes">
+							<h3>Quis autem vel eum iure reprehenderit</h3>
+							<div class="linha">
+								<h3>$199</h3>
+								<h4>$299</h4>
+							</div>
+							<p>
+								Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+								Delectus rerum quod minima! Repellat cum qui, voluptas
+								praesentium officiis dolorem hic quia quasi sed eos ducimus
+								veritatis fuga, quisquam in mollitia?
+							</p>
+							<div class="linha">
+								<h4>Sold: 120</h4>
+								<h4>Quantity: 500</h4>
+							</div>
+							<div class="barra">
+								<div class="progresso"></div>
+							</div>
+							<button>Add to cart</button>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="news" class="noticias">
+				<div class="noticias-flex margem-padrao">
+					<h2>velit esse</h2>
+					<h1>Quam nihil</h1>
+					<div class="cards">
+						<div class="box">
+							<img
+								src="assets/img/noticia1.jpg"
+								alt="Imagem de ambientes de estudo"
+							/>
+							<div class="textos">
+								<h3>Vel illum qui dolorem eum fugiat</h3>
+								<h4>June 01/2019</h4>
+							</div>
+						</div>
+						<div class="box">
+							<img
+								src="assets/img/noticia2.jpg"
+								alt="Imagem de ambientes de estudo"
+							/>
+							<div class="textos">
+								<h3>Quo voluptas nulla pariatur</h3>
+								<h4>June 01/2019</h4>
+							</div>
+						</div>
+						<div class="box">
+							<img
+								src="assets/img/noticia3.jpg"
+								alt="Imagem de ambientes de estudo"
+							/>
+							<div class="textos">
+								<h3>At vero eos et accusamus et iusto</h3>
+								<h4>June 01/2019</h4>
+							</div>
+						</div>
+					</div>
+					<div class="setas">
+						<img
+							src="assets/icons/seta-esquerda.png"
+							alt="Seta para esquerda"
+						/><img
+							src="assets/icons/seta-direita.png"
+							alt="Seta para direita"
+						/>
+					</div>
+					<div class="circulo"></div>
+				</div>
+			</section>
+
+			<section class="inscrever">
+				<div class="circulo"></div>
+				<div class="inscrever-flex margem-padrao">
+					<div class="textos">
+						<h2>odio dignissimos</h2>
+						<h1>Ducimus qui</h1>
+						<p>
+							Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+							Praesentium consequatur voluptatibus molestiae accusantium modi
+							sit laboriosam a dolor tempora.
+						</p>
+					</div>
+					<div class="entrada">
+						<input type="text" placeholder="Your Email" />
+						<button type="submit">Subscribe</button>
+						<div class="circulo"></div>
+					</div>
+				</div>
+			</section>
+		</main>
+
+		<footer>
+			<div class="footer-flex margem-padrao">
+				<div class="info">
+					<div class="coluna">
+						<h3>Lorem</h3>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+					</div>
+					<div class="coluna">
+						<h3>Lorem</h3>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+					</div>
+					<div class="coluna">
+						<h3>Lorem</h3>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+					</div>
+					<div class="coluna">
+						<h3>Lorem</h3>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+						<h4>Lorem lorem lorem</h4>
+					</div>
+				</div>
+				<hr />
+				<div class="rodape">
+					<small>&copy; Copyright 2023 Gabriel Oliveira Sampaio</small>
+					<div class="redes">
+						<div class="icone">
+							<img
+								class="face"
+								src="assets/icons/facebook.png"
+								alt="Ícone do Facebook"
+							/>
+						</div>
+						<div class="icone">
+							<img src="assets/icons/twitter.png" alt="Ícone do Twitter" />
+						</div>
+						<div class="icone">
+							<img src="assets/icons/instagram.png" alt="Ícone do Instagram" />
+						</div>
+					</div>
+					<div class="metodos">
+						<div class="icone">
+							<img src="assets/icons/paypal.png" alt="Imagem do Paypal" />
+						</div>
+						<div class="icone">
+							<img
+								class="visa"
+								src="assets/icons/visa.png"
+								alt="Imagem da VISA"
+							/>
+						</div>
+						<div class="icone">
+							<img
+								src="assets/icons/mastercard.png"
+								alt="Imagem do MasterCard"
+							/>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+		<a href="#topo"
+			><img
+				src="assets/icons/seta-direita.png"
+				class="voltar-topo"
+				alt="Botão para voltar ao topo da página"
+		/></a>
+
+		<section class="sem-suporte">
+			<h1>Esse site ainda não possui suporte para esse tamanho de tela.</h1>
+			<img src="assets/icons/triste.png" alt="Emoji triste" />
+		</section>
+	</body>
+</html>

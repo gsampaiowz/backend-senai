@@ -1,0 +1,671 @@
+/*! Imports de fonts */
+
+@font-face {
+  font-family: Inter;
+  src: url("../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+@font-face {
+  font-family: Web-Black;
+  src: url("../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf");
+}
+
+@font-face {
+  font-family: Web-Bold;
+  src: url("../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf");
+}
+
+@font-face {
+  font-family: Quick;
+  src: url("../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf");
+}
+
+/*! Reset CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  background-color: white;
+  font-family: Inter;
+}
+
+/*! Classes Genéricas */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.layout-grid {
+  width: 90%;
+  max-width: 992px;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+}
+
+.alinhamento-between-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mostrar-menu {
+  left: 0 !important;
+}
+
+.mostrar-options {
+  right: 0 !important;
+}
+
+/*! Mobile First */
+
+/*! Conteúdo */
+
+main {
+  margin-top: 60px;
+}
+
+/* ! SESSAO INICIO */
+
+main .banner {
+  background: url("../assets/images/banner.png") no-repeat;
+  background-size: cover;
+  background-position: top;
+
+  height: 606px;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0 80px 0;
+}
+
+main .banner-titulo {
+  font-family: "Web-Black";
+  font-size: 40px;
+  line-height: 61px;
+
+  color: #ffffff;
+
+  text-shadow: 0px 0px 7px #fd4255;
+}
+
+main .banner a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-size: 24px;
+  font-family: Web-Bold;
+  color: #1b1426;
+  background-color: #f9aa01;
+  border-radius: 9px;
+  width: 171px;
+  height: 40px;
+}
+
+/* ! SESSAO JOGOS */
+
+main .jogos {
+  background-color: #1b1426;
+  height: 590px;
+}
+
+main .jogos .jogos-flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+
+  height: 100%;
+}
+
+main .jogos .jogos-flex .imagem-box {
+  display: flex;
+  align-items: flex-end;
+}
+
+main .jogos .jogos-flex .imagem-box img {
+  width: 335px;
+}
+
+main .jogos .jogos-flex .imagem-box .box-blur {
+  position: absolute;
+  width: 335px;
+  height: 50px;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  border: 2px solid transparent;
+  background: 
+                /* content */ linear-gradient(
+        to right bottom,
+        rgba(239, 239, 239, 0.6) 0%,
+        rgba(239, 239, 239, 0.1) 100%
+      )
+      content-box,
+    /* border */
+      linear-gradient(
+        to right bottom,
+        rgba(255, 255, 255, 0.6) 0%,
+        rgba(255, 255, 255, 0.2) 100%
+      )
+      border-box;
+  backdrop-filter: blur(2px);
+  border-radius: 8px;
+}
+
+main .jogos .jogos-flex .imagem-box .box-blur .box-button {
+  margin-left: 40px;
+  transform: skew(-50deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f9aa01;
+  width: 171px;
+  height: 40px;
+}
+
+main .jogos .jogos-flex .imagem-box .box-blur .box-button a {
+  transform: skew(50deg);
+  text-decoration: none;
+  font-size: 16px;
+  font-family: Web-Bold;
+  color: #1b1426;
+}
+
+/* ! SESSAO PROGAMER */
+
+main .progamer {
+  height: 1535px;
+  background-color: #f9aa01;
+}
+
+main .progamer .progamer-flex {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+}
+
+main .progamer .progamer-flex .progamer-titulo {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main .progamer .progamer-flex .progamer-titulo h2 {
+  letter-spacing: 2px;
+  color: #1b1426;
+  font-family: Web-Black;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+main .progamer .progamer-flex .progamer-titulo hr {
+  margin-top: 25px;
+  width: 90%;
+  border: 1px solid #1b1426;
+}
+
+main .progamer .progamer-flex .articles {
+  margin-top: 80px;
+  height: 1069px;
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main .progamer .progamer-flex .articles .jogos-diferentes {
+  background: url(../assets/images/kiljoy.png) no-repeat;
+  height: 511px;
+  width: 322px;
+  position: relative;
+}
+
+main .progamer .progamer-flex .articles .professores {
+  background: url(../assets/images/jinx.png) no-repeat;
+  height: 428px;
+  width: 322px;
+  position: relative;
+}
+
+main .progamer .progamer-flex .articles .box-blur {
+  height: 300px;
+  width: 231px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+
+  background: linear-gradient(
+    to right bottom,
+    rgba(122, 49, 236, 0.2),
+    rgba(47, 7, 109, 0.83)
+  );
+  border: 1px solid grey;
+  border-radius: 8px;
+  backdrop-filter: blur(6px);
+}
+
+main .progamer .progamer-flex .articles .box-blur h3 {
+  font-family: Web-Black;
+  font-size: 18px;
+  text-shadow: 0 0 6px #c6a5e5;
+  text-transform: uppercase;
+}
+
+main .progamer .progamer-flex .articles .box-blur p {
+  text-align: justify;
+  width: 176px;
+  font-family: Quick;
+  font-size: 13px;
+}
+
+main .progamer .progamer-flex .articles .jogos-box {
+  position: absolute;
+  bottom: 79px;
+  right: 0px;
+}
+
+main .progamer .progamer-flex .articles .profs-box {
+  position: absolute;
+  bottom: 17px;
+  left: 0px;
+}
+
+/* ! SESSAO NOTICIAS */
+
+main .noticias {
+  height: 3675px;
+  width: 100%;
+  background: url(../assets/images/backgrund_notícias.png) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+main .noticias .blur {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  height: 1225px;
+  background: linear-gradient(
+    to bottom,
+    rgba(45, 24, 77, 1),
+    rgba(27, 20, 38, 0)
+  );
+  backdrop-filter: blur(4px);
+}
+
+main .noticias .blur .noticia-titulo {
+  margin-top: 46px;
+  margin-bottom: 118px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main .noticias .blur .noticia-titulo h2 {
+  text-transform: uppercase;
+  font-family: Web-Black;
+  font-size: 22px;
+  height: 62px;
+}
+
+main .noticias .blur .noticia-titulo hr {
+  width: 90%;
+  border-color: #f9aa01;
+}
+
+main .noticias .blur .container-noticias {
+  height: 3418px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 46px;
+  align-items: center;
+}
+
+main .noticias .blur .container-noticias .noticia-box {
+  height: 386px;
+  max-width: 380px;
+
+  background: linear-gradient(
+    to right bottom,
+    rgba(37, 26, 52, 0.34),
+    rgba(5, 1, 12, 0.79)
+  );
+  backdrop-filter: blur(4px);
+  border-radius: 8px;
+}
+
+main .noticias .blur .container-noticias .noticia-box img {
+  width: 100%;
+}
+
+main .noticias .blur .container-noticias .noticia-box h3 {
+  font-family: Web-Bold;
+  font-size: 24px;
+  margin: 16px 25px 0 25px;
+}
+
+main .noticias .blur .container-noticias .noticia-box p {
+  font-family: Quick;
+  font-size: 16px;
+  margin: 16px 25px 0 25px;
+}
+
+/*! Tablets >= 768px */
+@media screen and (min-width: 768px) {
+  main .jogos {
+    height: 320px;
+  }
+
+  main .jogos .jogos-flex {
+    flex-direction: row;
+  }
+
+  main .progamer {
+    height: 1631px;
+  }
+
+  main .progamer .progamer-flex .articles .jogos-diferentes {
+    background-size: cover;
+    margin-right: 200px;
+    width: 363px;
+    height: 591px;
+  }
+
+  main .progamer .progamer-flex .articles .professores {
+    background-size: cover;
+    margin-left: 200px;
+    width: 486px;
+    height: 645px;
+  }
+
+  main .progamer .progamer-flex .articles {
+    height: 1277px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur {
+    width: 360px;
+    height: 440px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur img {
+    width: 143px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur h3 {
+    font-size: 25px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur p {
+    font-size: 16px;
+    width: 248px;
+  }
+
+  main .progamer .progamer-flex .articles .jogos-box {
+    bottom: 57px;
+    right: -200px;
+  }
+
+  main .progamer .progamer-flex .articles .profs-box {
+    left: -150px;
+    bottom: 57px;
+  }
+
+  main .noticias {
+    height: 2000px;
+    background: url(../assets/images/backgrund_notícias_tablet.png) no-repeat;
+    background-size: cover;
+  }
+
+  main .noticias .blur .noticia-titulo {
+    margin-bottom: 50px;
+  }
+
+  main .noticias .blur .container-noticias {
+    height: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  main .noticias .blur .container-noticias .noticia-box {
+    max-width: 323px;
+  }
+}
+
+/*! Desktop >= 1200px*/
+@media screen and (min-width: 1200px) {
+  .layout-grid {
+    width: 100%;
+    max-width: 1200px;
+  }
+
+  /*! esconde os elementos desnecessários */
+  header .header-bottom .hamburger,
+  header .header-bottom .options,
+  header .header-bottom nav .telefone,
+  header .header-bottom nav .email,
+  header .header-bottom nav .midias-sociais {
+    display: none;
+  }
+
+  header {
+    position: static;
+    height: auto;
+    width: 100%;
+  }
+
+  header .header-top {
+    display: block;
+
+    height: 50px;
+    border-bottom: 1px solid #f9aa01;
+  }
+
+  header .header-top .contatos {
+    display: flex;
+    gap: 54px;
+
+    height: 25px;
+    font-size: 14px;
+  }
+
+  header .header-top .contatos > div {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+
+    width: 200px;
+    height: 25px;
+    font-size: 14px;
+  }
+
+  header .header-top .midias-sociais {
+    display: flex;
+    justify-content: flex-end;
+    gap: 27px;
+
+    width: 120px;
+  }
+
+  header .header-bottom {
+    background-color: #1b1426;
+    height: 90px;
+  }
+
+  header .header-bottom .logo {
+    width: 196px;
+  }
+
+  header .header-bottom nav {
+    position: static;
+    width: 440px;
+    height: 50px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    /* background-color: red; */
+  }
+
+  header .header-bottom nav a:hover {
+    color: #f9aa01;
+  }
+
+  header .header-bottom nav a {
+    border-bottom: none;
+  }
+
+  header .header-bottom .menu-usuarios {
+    position: static;
+
+    justify-content: flex-end;
+    flex-direction: row;
+    gap: 27px;
+
+    height: auto;
+    width: 140px;
+    background-color: transparent;
+    background-image: none;
+  }
+
+  main {
+    margin-top: 0;
+  }
+
+  main .banner {
+    background: url("../assets/images/banner-desktop.png") no-repeat;
+    background-size: cover;
+    background-position: top;
+    height: 780px;
+  }
+
+  main .banner .banner-titulo {
+    font-size: 80px;
+    margin-top: 30px;
+  }
+
+  main .banner a {
+    width: 200px;
+  }
+
+  main .jogos {
+    height: 500px;
+  }
+
+  main .jogos .jogos-flex {
+    flex-direction: row;
+    height: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  main .jogos .jogos-flex .imagem-box img {
+    width: 556px;
+  }
+
+  main .jogos .jogos-flex .imagem-box .box-blur {
+    width: 556px;
+    height: 80px;
+  }
+
+  main .jogos .jogos-flex .imagem-box .box-blur .box-button {
+    height: 57px;
+    margin-left: 100px;
+  }
+
+  main .jogos .jogos-flex .imagem-box .box-blur .box-button a {
+    font-size: 20px;
+  }
+
+  main .progamer {
+    height: 1000px;
+  }
+
+  main .progamer .progamer-flex .progamer-titulo h2 {
+    font-size: 40px;
+    letter-spacing: 6px;
+  }
+
+  main .progamer .progamer-flex .articles {
+    flex-direction: row;
+    height: 692px;
+    margin-top: 200px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur {
+    width: 360px;
+    height: 440px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur h3 {
+    font-size: 25px;
+  }
+
+  main .progamer .progamer-flex .articles .box-blur p {
+    font-size: 16px;
+    width: 75%;
+  }
+
+  main .progamer .progamer-flex .articles .jogos-diferentes {
+    bottom: 100px;
+    width: 425px;
+    height: 692px;
+    margin-right: 0;
+    background-size: cover;
+  }
+
+  main .progamer .progamer-flex .articles .jogos-diferentes .jogos-box {
+    bottom: 65px;
+    right: -170px;
+  }
+
+  main .progamer .progamer-flex .articles .professores {
+    bottom: 100px;
+    width: 521px;
+    height: 692px;
+    background-size: cover;
+  }
+
+  main .progamer .progamer-flex .articles .professores .profs-box {
+    bottom: 65px;
+    left: -60px;
+  }
+
+  main .noticias {
+    height: 1175px;
+  }
+  main .noticias .blur .noticia-titulo h2 {
+    font-size: 40px;
+  }
+  main .noticias .blur .noticia-titulo hr {
+    margin-top: 25px;
+  }
+  main .noticias .blur .container-noticias .noticia-box {
+    width: 285px;
+    height: 387px;
+    margin-bottom: 50px;
+  }
+  main .noticias .blur .container-noticias {
+    gap: 20px;
+  }
+}

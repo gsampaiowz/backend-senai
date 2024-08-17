@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <script src="js/script.js"></script>
+  </head>
+
+  <body>
+    <!-- * CABEÇALHO -->
+    <header>
+      <div class="layout-grid header-flex">
+        <img
+          src="assets/images/lp-logo.svg"
+          alt="Logotipo Landing Page"
+          class="logo"
+        />
+        <nav id="menuMobile">
+          <a href="">inicio</a>
+          <a href="#sobre">sobre</a>
+          <a href="#desafios">desafios</a>
+          <a href="#endereco">endereço</a>
+        </nav>
+
+        <img
+          onclick="Hamburger()"
+          id="menuHamburger"
+          src="assets/icons/menu.svg"
+          alt="Menu Hamburger"
+        />
+      </div>
+    </header>
+    <!-- ! CONTEUDO -->
+    <main>
+      <article class="banner">
+        <div class="layout-grid banner-flex">
+          <div class="banner-info">
+            <h1>desenvolvimento de sistemas 2023</h1>
+            <h2>senai informática</h2>
+            <img src="assets/images/Vector.svg" alt="Mouse amarelo" />
+          </div>
+        </div>
+      </article>
+      <section id="sobre" class="sobre">
+        <div class="layout-grid sobre-flex">
+          <div class="sobrebox">
+            <h2>Sobre os Projetos</h2>
+
+            <img
+              src="assets/images/people.png"
+              alt="Imagem de uma reunião com um palestrante, traje social conversando com quatro pessoas sentadas"
+            />
+          </div>
+
+          <div class="participantes">
+            <h3>Participantes</h3>
+            <h4>Mais de 80 alunos organizados em 16 grupos</h4>
+
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi
+              porro maxime eaque. Dolores quos temporibus vel vitae, ad minima
+              aperiam possimus maiores eius repellat corporis provident
+              consequuntur facere odit voluptate! Lorem ipsum dolor sit amet,
+              consectetur adipisicing elit. Natus repellat eligendi impedit
+              animi ex! Illo numquam, facere est ex similique fugiat tempore
+              sapiente quam eaque veniam a corrupti unde iusto?
+            </p>
+          </div>
+        </div>
+      </section>
+      <section id="desafios" class="info">
+        <div class="layout-grid info-flex">
+          <div class="info-box">
+            <h3>local</h3>
+            <h4>são paulo</h4>
+          </div>
+          <div class="info-box">
+            <h3>duração</h3>
+            <h4>90 dias</h4>
+          </div>
+          <div class="info-box">
+            <h3>desafios</h3>
+            <h4>+30 desafios</h4>
+          </div>
+        </div>
+      </section>
+      <section id="endereco" class="endereco">
+        <div class="layout-grid endereco-flex">
+          <h2>endereço:</h2>
+          <div class="map-box">
+            <h4>
+              Alameda Barão de Limeira, 539 Santa Cecilia, São Paulo - SP CEP:
+              01202-001
+            </h4>
+
+            <img
+              src="assets/images/maps.png"
+              alt="Mapa com a localização da Escola SENAI de Informática"
+            />
+          </div>
+        </div>
+      </section>
+    </main>
+    <!-- ! RODAPE -->
+    <footer>Copyright © 2020 - Escola Senai de Informática</footer>
+  </body>
+</html>

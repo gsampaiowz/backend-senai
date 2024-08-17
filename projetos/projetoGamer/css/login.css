@@ -1,0 +1,218 @@
+/*! Imports de fonts */
+
+@font-face {
+  font-family: Inter;
+  src: url("../assets/fonts/Inter/Inter-VariableFont_slnt\,wght.ttf");
+}
+
+@font-face {
+  font-family: Web-Black;
+  src: url("../assets/fonts/Titillium_Web/TitilliumWeb-Black.ttf");
+}
+
+@font-face {
+  font-family: Web-Bold;
+  src: url("../assets/fonts/Titillium_Web/TitilliumWeb-Bold.ttf");
+}
+
+@font-face {
+  font-family: Quick;
+  src: url("../assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf");
+}
+
+/*! Reset CSS */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: white;
+  background-color: white;
+  font-family: Inter;
+}
+
+/*! Classes Genéricas */
+
+html {
+  scroll-behavior: smooth;
+}
+
+.layout-grid {
+  width: 90%;
+  max-width: 992px;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+}
+
+.alinhamento-between-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mostrar-menu {
+  left: 0 !important;
+}
+
+.mostrar-options {
+  right: 0 !important;
+}
+
+/*! Mobile First */
+
+/*! Conteúdo */
+
+main {
+  margin-top: 60px;
+}
+
+main .banner {
+  display: flex;
+  justify-content: center;
+
+  background: url("../assets/images/banner-login.png") no-repeat;
+  background-size: cover;
+  background-position: top;
+
+  height: 687px;
+  width: 100%;
+
+  align-items: center;
+  padding: 0 0 121px 0;
+}
+
+/* ! FUNDO COM BLUR */
+
+main .banner .blur-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-bottom: 26px;
+  padding-top: 78px;
+
+  width: 100%;
+  height: 566px;
+  backdrop-filter: blur(2px);
+}
+
+/*! FORMS COM BLUR */
+
+main .banner .blur-box .login-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 25px;
+
+  border: 1px solid grey;
+
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(27, 20, 38, 0.5),
+    rgba(27, 20, 38, 0.2)
+  );
+  border-radius: 8px;
+
+  width: 335px;
+  height: 462px;
+}
+
+main .banner .blur-box .login-box h1 {
+  position: relative;
+  bottom: 70px;
+
+  border-top: 3px solid #f9aa01;
+  font-size: 28px;
+  text-transform: uppercase;
+  font-family: Web-Black;
+}
+
+/* ! INPUT COM FUNDO GRADIENTE */
+
+main .banner .blur-box .login-box .input-box {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+
+  width: 273px;
+  height: 40px;
+
+  border: 0.5px solid grey;
+  background: 
+                /* content */ linear-gradient(
+      to right,
+      rgba(239, 239, 239, 0.6) 0%,
+      rgba(239, 239, 239, 0.1) 100%
+    )
+    content-box;
+  backdrop-filter: blur(2px);
+  border-radius: 8px;
+}
+
+main .banner .blur-box .login-box .input-box input {
+  width: 100%;
+  height: 30px;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-family: Inter;
+}
+
+main .banner .blur-box .login-box .input-box img {
+  margin-left: 20px;
+}
+
+main .banner .blur-box .login-box .input-box input::placeholder {
+  color: white;
+}
+
+main .banner .blur-box .login-box .botao-logar {
+  position: relative;
+  top: 30px;
+
+  width: 273px;
+  height: 40px;
+
+  background-color: #f9aa01;
+  font-size: 24px;
+  color: #1b1426;
+  font-family: Web-Bold;
+  border-radius: 8px;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (min-width: 768px) {
+  main .banner {
+    height: 816px;
+    padding: 0;
+  }
+  main .banner .blur-box {
+    height: 100%;
+    padding: 0;
+  }
+  main .banner .blur-box .login-box {
+    width: 680px;
+  }
+  main .banner .blur-box .login-box h1 {
+    border-top: 0;
+    border-bottom: 3px solid #f9aa01;
+  }
+  main .banner .blur-box .login-box .input-box {
+    width: 500px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  main {
+    margin-top: 0;
+  }
+}

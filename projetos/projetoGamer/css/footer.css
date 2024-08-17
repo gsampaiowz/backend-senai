@@ -1,0 +1,254 @@
+/* ! RODAPÉ */
+
+/* ! MOBILE */
+footer {
+  height: 1531px;
+
+  position: relative;
+
+  background: url(../assets/images/backgroung_footer.png) no-repeat;
+  background-size: cover;
+  background-position: top;
+}
+
+footer .gradient {
+  height: 212px;
+  background: linear-gradient(to bottom, black, rgba(67, 3, 99, 0.03));
+}
+
+footer .gradient .box1 {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .gradient .logo {
+  align-self: center;
+  width: 110px;
+  margin-top: 91px;
+}
+
+footer .gradient .desc {
+  align-self: center;
+  font-family: Quick;
+  font-size: 14px;
+  margin-top: 41px;
+}
+
+footer .gradient .redes {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 50px;
+}
+
+footer .gradient .title {
+  margin-top: 50px;
+  font-family: Web-Black;
+  font-size: 30px;
+}
+
+footer .gradient .title hr {
+  width: 150px;
+  border: 2px solid #f9aa01;
+  margin-bottom: 50px;
+}
+
+footer .gradient .links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+}
+
+footer .gradient .links span {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  font-family: Web-Bold;
+  font-size: 16px;
+}
+
+footer .gradient .links span a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* footer .gradient .links span a::before {
+  content: "-";
+  color: #f9aa01;
+} */
+
+footer .gradient .links span hr {
+  height: 1px;
+  width: 16px;
+  border-color: #f9aa01;
+}
+
+footer .gradient h3 {
+  margin-bottom: 10px;
+  font-family: Web-Bold;
+  font-size: 16px;
+}
+
+footer .gradient .inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+footer .gradient .inputs input {
+  height: 40px;
+  border-radius: 8px;
+}
+
+footer .gradient .inputs input[type="email"] {
+  margin-bottom: 20px;
+
+  color: white;
+  outline: none;
+  border: 0.5px solid grey;
+  background: 
+                  /* content */ linear-gradient(
+      to right,
+      rgba(239, 239, 239, 0.6) 0%,
+      rgba(239, 239, 239, 0.1) 100%
+    )
+    content-box;
+  backdrop-filter: blur(2px);
+}
+
+footer .gradient .inputs input[type="email"]::placeholder {
+  color: white;
+  font-family: Quick;
+
+  position: relative;
+  left: 15px;
+}
+
+footer .gradient .inputs input[type="submit"] {
+  background-color: #f9aa01;
+  color: #1b1426;
+  font-family: Web-Bold;
+  font-size: 24px;
+  border: none;
+}
+
+footer .gradient a .return {
+  width: 40px;
+  height: 40px;
+  position: fixed;
+  right: 20px;
+  bottom: 100px;
+}
+
+footer .gradient .copy small {
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  position: absolute;
+  bottom: 40px;
+  left: 0;
+  right: 0;
+}
+
+/* ! TABLET */
+
+@media screen and (min-width: 768px) {
+  footer {
+    height: 1000px;
+  }
+
+  footer .layout-grid {
+    max-width: 85%;
+  }
+
+  footer .gradient .footer-flex {
+    display: flex;
+    flex-direction: column;
+  }
+
+  footer .gradient .footer-flex .primeira-linha {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-bottom: 150px;
+  }
+  footer .gradient .footer-flex .segunda-linha {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+  }
+
+  footer .gradient .box1,
+  .box2,
+  .box3,
+  .box4 {
+    width: 285px;
+  }
+
+  footer .gradient .logo {
+    width: 196px;
+  }
+
+  footer .gradient .title {
+    margin-top: 0;
+  }
+
+  footer .gradient .box2 {
+    margin-top: 80px;
+  }
+
+  footer .gradient .desc {
+    font-size: 16px;
+  }
+
+  footer .gradient .links {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+/* ! DESKTOP */
+
+@media screen and (min-width: 1200px) {
+  footer {
+    height: 520px;
+    background: url(../assets/images/backgroung_footer_desktop.png) no-repeat;
+    background-size: cover;
+    background-position: top;
+  }
+  footer .gradient {
+    height: 212px;
+  }
+  footer .gradient .footer-flex {
+    flex-direction: row;
+    justify-content: center;
+  }
+  footer .gradient .footer-flex .primeira-linha {
+    gap: 40px;
+    margin: 75px 0 0 0;
+  }
+  footer .gradient .footer-flex .segunda-linha {
+    gap: 0;
+    margin-top: 75px;
+  }
+  footer .gradient .logo {
+    margin-top: 10px;
+    align-self: start;
+  }
+  footer .gradient .redes {
+    gap: 40px;
+    align-self: start;
+  }
+  footer .gradient .title h2 {
+    font-size: 30px;
+  }
+  footer .gradient .box2 {
+    margin-top: 0;
+  }
+  footer .gradient .links {
+    gap: 25px;
+  }
+  footer .gradient .box1 {
+    gap: 20px;
+  }
+}
